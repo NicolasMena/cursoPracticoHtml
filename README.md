@@ -1,2 +1,2 @@
-# Repositorio Curso HTML Practico Platzi
+# Repositorio Curso HTML práctico Platzi
 Nicolás Mena 2022
